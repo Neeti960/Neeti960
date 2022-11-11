@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Neeti960
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c language 
+-  
 
 
 <!---
